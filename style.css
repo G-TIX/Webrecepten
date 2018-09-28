@@ -1,0 +1,64 @@
+
+.page {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 640px;
+}
+
+.header {
+  font-size: 36px;
+  line-height: 36px;
+  border-bottom: 1px solid;
+}
+
+.ingredienten {
+  padding-bottom: 40px;
+  font-size: 20px;
+}
+
+.Bereiding {
+padding-bottom: 40px;
+font-size: 20px;
+}
+
+.ingredienten li {
+  margin: 10px;
+}
+
+.Bereiding li {
+  margin: 20px;
+}
+
+.tipbox {
+  border-style: solid #def6ed;
+  background-color: #def6ed;
+  border-radius: 4px;
+  padding: 25px;
+}
+
+.links {
+font-size: 20px;
+text-decoration: none;
+text-align: center;
+padding-bottom: 40px;
+}
+
+
+
+h2 , h3 {
+  font-size: 32;
+}
+
+img {
+width: 506;
+height: 506;
+padding-bottom: 40px;
+}
+
+p {
+  font-size: 24;
+  padding-bottom: 40px;
+}
